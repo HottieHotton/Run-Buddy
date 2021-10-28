@@ -75,7 +75,7 @@ header {
 
   .hero{
     height: 600px;
-    background-image: url("../Images/hero.jpg");
+    background-image: url("../Images/hero-flip.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
