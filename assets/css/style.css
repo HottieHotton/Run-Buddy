@@ -152,7 +152,6 @@ header {
   
   /* Sections */
   .intro{
-    text-align: center;
   }
 
   .intro p {
@@ -161,10 +160,10 @@ header {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
   }
 
   .steps{
-    text-align: center;
     background: #fce138;
   }
 
@@ -191,15 +190,6 @@ header {
   .steps span{
     font-size: 38px;
   }
-
-  .section-title {
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
-  }
   
   .primary-border {
     border-color: #fce138;
@@ -211,7 +201,6 @@ header {
 
   /* Trainers */
   .trainers {
-    text-align: center;
   }
 
   .trainer{
@@ -259,16 +248,16 @@ header {
 
   /* Reach Out */
   .section-title {
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
     font-size: 55px;
-    display: inline-block;
-    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    margin-bottom: 35px;
     color: #024e76;
   }
 
   .contact {
-    text-align: center;
     background: #024e76;
   }
 
@@ -307,3 +296,8 @@ header {
   }
   
   /* Reach Out Style Ends */
+
+  /* Flex */
+  .flex-row {
+    display: flex;
+  }
