@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://hottiehotton.github.io/run-buddy/
+https://hottiehotton.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Braxton Hotton
